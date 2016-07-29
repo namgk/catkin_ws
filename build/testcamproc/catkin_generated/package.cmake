@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "testcamproc")
+set(testcamproc_MAINTAINER "root <root@todo.todo>")
+set(testcamproc_DEPRECATED "")
+set(testcamproc_VERSION "0.0.0")
+set(testcamproc_BUILD_DEPENDS "cv_bridge" "opencv2" "rospy" "sensor_msgs" "std_msgs")
+set(testcamproc_RUN_DEPENDS "cv_bridge" "opencv2" "rospy" "sensor_msgs" "std_msgs")
+set(testcamproc_BUILDTOOL_DEPENDS "catkin")

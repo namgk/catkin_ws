@@ -1,0 +1,8 @@
+prefix=/catkin_ws/devel
+
+Name: testcamproc
+Description: Description of testcamproc
+Version: 0.0.0
+Cflags: 
+Libs: -L/catkin_ws/devel/lib 
+Requires: 
